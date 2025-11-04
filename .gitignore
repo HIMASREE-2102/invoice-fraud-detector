@@ -1,0 +1,30 @@
+# 🧾 Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# 🧠 Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+
+# 📊 Large or temporary data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pkl
+
+# ⚙️ Environment / dependency files
+.env
+.venv/
+env/
+venv/
+
+# 💾 OS-specific files
+.DS_Store
+Thumbs.db
+
+# 🧰 VSCode / PyCharm project files
+.vscode/
+.idea/
